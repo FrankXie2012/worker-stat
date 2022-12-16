@@ -1,0 +1,4 @@
+node_modules/
+output/
+pm2-logs/
+*.csv
